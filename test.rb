@@ -17,4 +17,4 @@ def hopper
 
 end
 
-hopper
+puts hopper
