@@ -18,4 +18,4 @@ programmer_hash.delete(:alan_kay)
 programmer_hash.delete(:dennis_ritchie)
 end
 
-puts hopper
+puts programmer_hash
