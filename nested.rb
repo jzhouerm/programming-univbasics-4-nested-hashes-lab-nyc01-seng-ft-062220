@@ -66,7 +66,6 @@ programmer_hash =
       :languages => ["LISP", "C"]
     },
 
- 		{
       :grace_hopper => {
         :known_for => "COBOL",
         :languages => ["COBOL", "FORTRAN"]
@@ -80,7 +79,7 @@ programmer_hash =
         :languages => ["C"]
       }
     
-
+}
 end
 
 def changing_alan
