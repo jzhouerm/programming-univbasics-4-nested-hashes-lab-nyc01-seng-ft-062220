@@ -79,7 +79,7 @@ programmer_hash =
         :known_for => "Unix",
         :languages => ["C"]
       }
-    }
+    
 
 end
 
