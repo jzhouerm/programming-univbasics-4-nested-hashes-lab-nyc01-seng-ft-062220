@@ -16,3 +16,5 @@ def hopper
     }
 
 end
+
+hopper
