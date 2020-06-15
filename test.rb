@@ -14,7 +14,7 @@ def hopper
         :languages => ["C"]
       }
     }
-
+programmer_hash.delete
 end
 
 puts hopper
